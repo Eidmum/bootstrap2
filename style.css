@@ -1,0 +1,46 @@
+#nav-second-half a
+{
+    padding: 25px;
+}
+.buy-now-button
+{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.see-text
+{
+    color: orange;
+    
+    
+}
+
+.see-text:hover
+{
+    text-decoration: none;
+}
+.container
+{
+    margin-bottom: 100px;
+}
+.card
+{
+    border: none;
+    box-shadow: 0px 0px 10px lightgrey;
+    border-radius: 20px;
+}
+.smartphone
+{
+    margin-bottom: 30px;
+}
+.container img
+{
+    width: 200px;
+   margin: 50px 0px;
+}
+.cata-margin
+{
+    margin-bottom: 40px;
+}
